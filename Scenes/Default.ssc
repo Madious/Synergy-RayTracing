@@ -1,0 +1,34 @@
+Objects:
+  - Name: Orange
+    Position: [0, 0.800000012, 0]
+    Radius: 1
+    MaterialIndex: 0
+  - Name: Blue
+    Position: [0, -101, 0]
+    Radius: 100
+    MaterialIndex: 1
+  - Name: Pink
+    Position: [-1.60000002, -0.300000012, 0]
+    Radius: 0.699999988
+    MaterialIndex: 2
+  - Name: White
+    Position: [1.39999998, -0.300000012, 0]
+    Radius: 0.300000012
+    MaterialIndex: 3
+Materials:
+  - Name: Orange Mat
+    Albedo: [0.857142866, 0.836483955, 0.17539987]
+    EmissionColor: [0.858823538, 0.835294127, 0.176470593]
+    EmissionPower: 1.5
+  - Name: Blue Mat
+    Albedo: [0.18917425, 0.349998116, 0.907335877]
+    EmissionColor: [1, 1, 1]
+    EmissionPower: 0
+  - Name: Pink
+    Albedo: [0.884169877, 0.109241083, 0.863226116]
+    EmissionColor: [1, 1, 1]
+    EmissionPower: 0
+  - Name: White
+    Albedo: [1, 1, 1]
+    EmissionColor: [1, 1, 1]
+    EmissionPower: 0
